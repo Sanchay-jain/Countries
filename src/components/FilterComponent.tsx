@@ -37,6 +37,7 @@ const FilterComponent = ({ region, setRegion }) => {
           borderRadius: 5,
           gap: 5,
           height: 40,
+          elevation: 2,
           shadowColor: "#000",
           shadowOffset: {
             width: 0,
@@ -63,6 +64,7 @@ const FilterComponent = ({ region, setRegion }) => {
             zIndex: 11,
             top: 45,
             paddingLeft: 15,
+            elevation: 2,
             shadowColor: "#000",
             shadowOffset: {
               width: 0,

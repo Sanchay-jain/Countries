@@ -14,6 +14,7 @@ const CountryCard = ({ item }: any) => {
         backgroundColor: colors.card,
         paddingBottom: 30,
         shadowColor: "#000",
+        elevation: 2,
         shadowOffset: {
           width: 0,
           height: 2,

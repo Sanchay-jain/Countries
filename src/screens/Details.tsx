@@ -43,6 +43,7 @@ const Details = ({ route, navigation }: any) => {
             marginBottom: 40,
             marginTop: 10,
             borderRadius: 4,
+            elevation: 2,
             shadowColor: "#000",
             shadowOffset: {
               width: 0,
@@ -134,6 +135,7 @@ const Details = ({ route, navigation }: any) => {
                         paddingHorizontal: 10,
                         marginRight: 10,
                         marginTop: 15,
+                        elevation: 2,
                         shadowColor: "#000",
                         shadowOffset: {
                           width: 0,
