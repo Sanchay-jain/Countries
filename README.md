@@ -2,8 +2,11 @@
 How to run this project locally:-
 
 Clone this repo then run the following commands
+
 cd Countries
-npx expo start
+
+npx expo start (If you encounter error here try npm install.)
+
 
 This will start a development server for you.
 
